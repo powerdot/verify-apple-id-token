@@ -2,7 +2,7 @@ import type { JwtPayload } from "jsonwebtoken";
 
 export interface VerifyAppleIdTokenParams {
   idToken: string;
-  clientId: string | string[];
+  clientId?: string | string[];
   nonce?: string;
 }
 

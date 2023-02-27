@@ -1,6 +1,6 @@
 {
-  "name": "verify-apple-id-token",
-  "version": "3.0.1",
+  "name": "@powerdot/verify-apple-id-token",
+  "version": "3.0.2",
   "description": "Verify the Apple id token on the server side.",
   "main": "./dist/index.js",
   "scripts": {
